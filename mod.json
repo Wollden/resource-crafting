@@ -1,0 +1,10 @@
+{
+  "name":"rcraft",
+  "displayName":"Resource Crafting",
+  "version":"1.0.1-a",
+  "description":"",
+  "minGameVersion":141,
+  "hidden":false,
+  "author":"Horion",
+  "dependencies":[]
+}
