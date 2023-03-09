@@ -1,0 +1,10 @@
+{
+  "type":"GenericCrafter",
+  "category":"crafting",
+  "size":2,
+  "hasItems":true,
+  "requirements":[]
+  "research":"mechanical-drill"
+  "alwaysResearch":true,
+  "outputItem":{"lead/1"}
+}
